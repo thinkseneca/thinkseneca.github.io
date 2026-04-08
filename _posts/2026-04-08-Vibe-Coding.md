@@ -6,7 +6,7 @@ comments: true
 keywords: "Blog, Vibe Coding, Programming"
 Author: Felix Rizky Lesmana
 ---
-### **Pendahuluan""
+### **Pendahuluan**
 
 Dunia pemrograman sedang mengalami pergeseran besar. Jika dulu belajar *coding* berarti menghabiskan berjam-jam memahami sintaks yang rumit, kini muncul istilah baru yang sedang hangat dibicarakan: **Vibe Coding**.
 

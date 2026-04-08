@@ -1,6 +1,6 @@
 # Site settings
 title_left    : "Shep"
-title_right   : "Scape" # default: ""
+title_right   : "scape" # default: ""
 description   : "Minimalist Jekyll theme for technical writing blog."
 keywords      : "Jekyll, theme, free, download, SEO, blog, web, minimalist, thinkspace"
 url           : https://shepscape.github.io # site url

@@ -1,11 +1,12 @@
 ---
 layout: post
-title: "Mengenal Vibe Coding: Masa Depan Pemrograman atau Kiamat bagi programmer?"
+title: "Mengenal Vibe Coding"
 description: "There is no one who loves pain itself, who seeks after it and wants to have it, simply because it is pain..."
 comments: true
 keywords: "dummy content, lorem ipsum"
 Author: Felix Rizky Lesmana
 ---
+### **Pendahuluan""
 
 Dunia pemrograman sedang mengalami pergeseran besar. Jika dulu belajar *coding* berarti menghabiskan berjam-jam memahami sintaks yang rumit, kini muncul istilah baru yang sedang hangat dibicarakan: **Vibe Coding**.
 

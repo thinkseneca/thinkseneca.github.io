@@ -20,6 +20,8 @@ Secara sederhana, **Vibe Coding** adalah proses membangun perangkat lunak (*soft
 
 Di sini, peran kita berubah dari seorang **"pengetik kode"** menjadi seorang **"konduktor orkestra"**. Kita memberikan visi, dan AI yang mengeksekusi teknisnya.
 
+---
+
 ### **Contoh Penerapan Vibe Coding**
 
 Bayangkan kita ingin membuat aplikasi berbasis web untuk daftar belanja sederhana.

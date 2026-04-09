@@ -56,6 +56,6 @@ Beberapa hal yang saya lakukan sekarang:
 
 ## Penutup
 
-Akhir kata, saya berharap keamanan nggak harus mengorbankan kebebasan. Saya mau HP saya aman, tapi saya juga mau tetap punya hak penuh buat install aplikasi *open-source* dari berbagai source tanpa harus divalidasi oleh perusahaan raksasa.
+Akhir kata, saya berharap keamanan nggak harus mengorbankan kebebasan. Saya mau HP saya aman, tapi saya juga mau tetap punya hak penuh buat install aplikasi *open-source* dari berbagai sumber tanpa harus divalidasi oleh perusahaan raksasa.
 
 Kalau menurut kalian gimana? Apakah kalian setuju demi keamanan total, atau kalian ngerasa ini udah kelewatan?

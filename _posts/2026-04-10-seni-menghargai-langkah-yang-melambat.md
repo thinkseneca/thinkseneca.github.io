@@ -20,9 +20,9 @@ Dalam ketidaksengajaanku membaca beberapa pemikiran lama, aku teringat satu hal:
 ### Menemukan Makna di Antara Celah
 
 Hari ini, aku mencoba sesuatu yang berbeda. Aku mencoba menikmati:
-* Aroma kopi yang biasanya hanya kutelan cepat sambil membalas whatsapp.
-* Percakapan singkat dengan orang asing tanpa merasa itu membuang waktuku.
-* Bahkan kegagalan kecil saat rencana hariku berantakan.
+* **Hening yang Berisi:** Menikmati sepuluh menit tanpa ponsel di pagi hari, menyadari bahwa keheningan bukanlah kekosongan, melainkan ruang untuk mendengar pikiran sendiri.
+* **Ritual yang Lambat:** Menyeduh kopi bukan sekadar untuk kafein, tapi untuk merasakan uapnya, hangat cangkirnya, dan jeda yang ia ciptakan sebelum hari menjadi bising.
+* **Penerimaan pada Ketidakpastian:** Menyadari bahwa rencana yang berantakan bukanlah kegagalan, melainkan kesempatan untuk melihat arah yang tidak pernah kita duga sebelumnya.
 
 Ternyata, dunia tidak runtuh saat aku melambat. Justru dalam kecepatan yang rendah ini, aku mulai melihat pola-pola yang selama ini tersembunyi. Benang merah itu tidak ditemukan dengan cara ditarik paksa, ia muncul ketika kita cukup tenang untuk memperhatikannya.
 

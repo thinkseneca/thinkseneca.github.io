@@ -9,9 +9,9 @@ Author: Felix Rizky Lesmana
 
 Halo, selamat datang di perhentian kecil ini.
 
-Ada sebuah tekanan yang tidak tertulis di dunia saat ini: **kita merasa harus selalu tahu ke mana kita pergi.** Setiap kali kita membuka media sosial atau berbincang di kedai kopi, seolah-olah semua orang sudah memegang peta yang lengkap, sementara kita sendiri masih meraba-rabadi dalam kegelapan.
+Ada sebuah tekanan yang tidak tertulis di dunia saat ini: **kita merasa harus selalu tahu ke mana kita pergi.** Setiap kali kita membuka media sosial atau berbincang di kedai kopi, seolah-olah semua orang sudah memegang peta yang lengkap, sementara kita sendiri masih meraba-raba di dalam kegelapan.
 
-Aku pun sama. Aku menghabiskan banyak waktu dengan merasa tersesat. Merasa tertinggal, merasa keliru memilih jalan, hingga merasa bahwa hidup hanyalah serangkaian kebingungan yang tidak berujung.
+Aku pun sama. Aku menghabiskan banyak waktu dengan merasa tersesat, merasa tertinggal, merasa keliru memilih jalan, hingga merasa bahwa hidup hanyalah serangkaian kebingungan yang tidak berujung.
 
 Namun, belakangan ini aku sampai pada sebuah kesadaran yang cukup menenangkan:
 
@@ -21,7 +21,7 @@ Namun, belakangan ini aku sampai pada sebuah kesadaran yang cukup menenangkan:
 
 ### Mengapa ThinkSeneca?
 
-Nama blog ini lahir dari keinginan untuk berhenti sejenak dan berpikir. Seperti refleksi para pemikir masa lalu yang memandang kekacauan dunia dengan ketenangan, aku ingin mencoba memahami kehidupan lewat kacamata yang lebih jernih—meski kacamata itu sering kali masih buram oleh emosi dan kegagalan.
+Nama blog ini lahir dari keinginan untuk berhenti sejenak dan berpikir. Seperti refleksi para pemikir masa lalu yang memandang kekacauan dunia dengan ketenangan, aku ingin mencoba memahami kehidupan lewat kacamata yang lebih jernih, meski kacamata itu sering kali masih buram oleh emosi dan kegagalan.
 
 Blog ini bukan tempat untuk mencari jawaban absolut atau nasihat dari seorang ahli. Ini adalah **dokumentasi jujur** tentang usahaku memahami arti kehidupan. Di sini, aku akan menulis tentang:
 

@@ -1,8 +1,10 @@
 ---
-Title: 
-
-
-
+layout: post
+title: Memulai Dengan Menjadi Tersesat
+description: "Menghabiskan waktu dengan merasa tersesat hingga menyadari bahwa itu adalah bagian dari pencarian."
+comments: true
+keywords: "self-reflection, pencarian jati diri, makna kehidupan, filosofi stoikisme, ThinkSeneca, catatan harian, pengembangan diri, mindfulness Indonesia, seni kehidupan"
+Author: Felix Rizky Lesmana
 ---
 
 Halo, selamat datang di perhentian kecil ini.

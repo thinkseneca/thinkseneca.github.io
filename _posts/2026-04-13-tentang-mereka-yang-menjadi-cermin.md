@@ -9,7 +9,8 @@ Author: Felix Rizky Lesmana
 
 Dalam perjalanan mencari makna, aku seringkali terjebak dalam pikiran bahwa ini adalah perjalanan tunggal. Aku mengira bahwa 'benang merah' itu hanya bisa ditemukan lewat meditasi sendirian atau membaca buku di sudut kamar yang sepi.
 
-Namun, semakin jauh aku melangkah, aku semakin sadar: **Makna kehidupan seringkali terpantul lewat mata orang-orang di sekitar kita.**
+Namun, semakin jauh aku melangkah, aku semakin sadar:
+> **Makna kehidupan seringkali terpantul lewat mata orang-orang di sekitar kita.**
 
 ### Kita adalah Pantulan dari Lingkaran Kita
 

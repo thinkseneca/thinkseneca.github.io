@@ -24,7 +24,7 @@ Aku mulai belajar membedakan antara **keramaian** dan **koneksi**.
 * **Keramaian** seringkali hanya mengisi waktu, namun meninggalkan rasa hampa saat kita pulang ke rumah.
 * **Koneksi** adalah saat kita merasa 'dilihat' dan 'didengar' tanpa perlu berpura-pura menjadi orang lain.
 
-Koneksi yang jujur bertindak seperti cermin. Mereka menunjukkan bagian dari diri kita yang tidak bisa kita lihat sendiri—baik itu kelebihan yang selama ini kita ragukan, maupun ego yang perlu kita jinakkan. Di sinilah 'benang merah' itu menjadi lebih kuat; ia terjalin bersama cerita-cerita orang lain.
+Koneksi yang jujur bertindak seperti cermin. Mereka menunjukkan bagian dari diri kita yang tidak bisa kita lihat sendiri, baik itu kelebihan yang selama ini kita ragukan, maupun ego yang perlu kita jinakkan. Di sinilah 'benang merah' itu menjadi lebih kuat; ia terjalin bersama cerita-cerita orang lain.
 
 ### Seni Memilih Teman Perjalanan
 

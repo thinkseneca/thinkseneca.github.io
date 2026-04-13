@@ -1,13 +1,11 @@
 ---
 layout: post
-title: Tentang Mereka yang Menjadi Cermin: Makna dalam Koneksi
+title: Tentang Mereka yang Menjadi Cermin
 description: "Menemukan makna hidup tidak harus sendirian"
 comments: true
 keywords: "hubungan antarmanusia, koneksi bermakna, refleksi diri, filosofi hidup, lingkaran pertemanan, pertumbuhan diri, ThinkSeneca."
 Author: Felix Rizky Lesmana
 ---
-
-# Tentang Mereka yang Menjadi Cermin
 
 Dalam perjalanan mencari makna, aku seringkali terjebak dalam pikiran bahwa ini adalah perjalanan tunggal. Aku mengira bahwa 'benang merah' itu hanya bisa ditemukan lewat meditasi sendirian atau membaca buku di sudut kamar yang sepi.
 

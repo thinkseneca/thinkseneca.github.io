@@ -1,9 +1,9 @@
 # Site settings
-title_left    : "Ruang"
-title_right   : "Kendali" # default: ""
-description   : "Seni menguasai diri, mengelola emosi, dan menemukan ketenangan di tengah dunia yang riuh melalui lensa Stoikisme modern."
+title_left    : "Liminal"
+title_right   : "Notes" # default: ""
+description   : "Catatan tentang ketenangan, kendali diri, dan seni merayakan ketidakpastian."
 keywords      : ""
-url           : https://ruangkendali.github.io # site url
+url           : https://liminalnotes.github.io # site url
 baseurl       : "" # apply repo name like "/myproject" if used under gh-pages branch, else (under master branch) just leave empty/blank
 cover         : "" # image uri like logo/cover image for site seo
 
